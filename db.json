@@ -1,6 +1,6 @@
 {
   "test": {
     "url": "https://example.com/api/posts",
-    "data": "[{\"id\":1,\"user_id\":101,\"user\":{\"id\":101,\"name\":\"John Doe\"},\"photo\":\"https://example.com/photos/1.jpg\"},{\"id\":2,\"user_id\":102,\"user\":{\"id\":102,\"name\":\"Jane Smith\"},\"photo\":\"https://example.com/photos/2.jpg\"},{\"id\":3,\"user_id\":103,\"user\":{\"id\":103,\"name\":\"Bob Johnson\"},\"photo\":\"https://example.com/photos/3.jpg\"}]"
+    "data": "[{\"id\":1,\"title\":\"Amazing Sunset at the Beach\",\"user_id\":101,\"user\":{\"id\":101,\"name\":\"John Doe\"},\"photo\":\"https://placehold.co/600x400\",\"likes\":42,\"comments\":[{\"id\":1,\"user\":\"Alice\",\"text\":\"Beautiful shot!\"},{\"id\":2,\"user\":\"Carlos\",\"text\":\"Love the colors\"}]},{\"id\":2,\"title\":\"Mountain Adventure\",\"user_id\":102,\"user\":{\"id\":102,\"name\":\"Jane Smith\"},\"photo\":\"https://placehold.co/600x400\",\"likes\":128,\"comments\":[{\"id\":1,\"user\":\"Bob\",\"text\":\"Great view!\"},{\"id\":2,\"user\":\"Diana\",\"text\":\"Looks amazing\"},{\"id\":3,\"user\":\"Ethan\",\"text\":\"I want to go there!\"}]},{\"id\":3,\"title\":\"City Lights at Night\",\"user_id\":103,\"user\":{\"id\":103,\"name\":\"Bob Johnson\"},\"photo\":\"https://placehold.co/600x400\",\"likes\":95,\"comments\":[{\"id\":1,\"user\":\"Frank\",\"text\":\"Stunning capture\"}]}]"
   }
 }
