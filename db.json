@@ -1,4 +1,6 @@
 {
-  "url": "https://example.com/api/posts",
-  "data": "[{\"id\":1,\"user_id\":101,\"user\":{\"id\":101,\"name\":\"John Doe\"},\"photo\":\"https://example.com/photos/1.jpg\"},{\"id\":2,\"user_id\":102,\"user\":{\"id\":102,\"name\":\"Jane Smith\"},\"photo\":\"https://example.com/photos/2.jpg\"},{\"id\":3,\"user_id\":103,\"user\":{\"id\":103,\"name\":\"Bob Johnson\"},\"photo\":\"https://example.com/photos/3.jpg\"}]"
+  "test": {
+    "url": "https://example.com/api/posts",
+    "data": "[{\"id\":1,\"user_id\":101,\"user\":{\"id\":101,\"name\":\"John Doe\"},\"photo\":\"https://example.com/photos/1.jpg\"},{\"id\":2,\"user_id\":102,\"user\":{\"id\":102,\"name\":\"Jane Smith\"},\"photo\":\"https://example.com/photos/2.jpg\"},{\"id\":3,\"user_id\":103,\"user\":{\"id\":103,\"name\":\"Bob Johnson\"},\"photo\":\"https://example.com/photos/3.jpg\"}]"
+  }
 }
